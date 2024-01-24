@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">CS 408 Lab1 Mystery Helper</string>
+    <string name="button_prompt">Press the button to get story help ...</string>
+    <string name="Get_Help">Click Me!</string>
+
+    <string-array name="storyPoints">
+        <item>you get knocked out</item>
+        <item>you go somewhere else</item>
+        <item>you find a dead man</item>
+        <item>you find a dead woman</item>
+        <item>you meet a buxom blonde</item>
+        <item>you smell familiar perfume</item>
+        <item>you hear a gunshot!</item>
+        <item>you hear the door lock behind you</item>
+        <item>you smell the room filling with gas</item>
+        <item>you fall down the stairs</item>
+        <item>You are framed for a crime</item>
+        <item>you witness unthinkable horrors</item>
+        <item>you fall out of your chair</item>
+        <item>you find your car on fire</item>
+        <item>... forget this story, it stinks!</item>
+    </string-array>
+
+    <string-array name="fruits">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Cherry</item>
+    </string-array>
 </resources>
